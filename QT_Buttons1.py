@@ -5,9 +5,6 @@
 # 
 # Generates a bunch of buttons puts them into a layout
 
-# In[13]:
-
-
 buttons =[]
 i = 0
 j = 4
